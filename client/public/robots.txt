@@ -1,5 +1,8 @@
 User-agent: Googlebot
 Disallow: /writing/
 
+User-agent: Mediapartners-Google
+Allow: /
+
 User-agent: *
 Allow: /
